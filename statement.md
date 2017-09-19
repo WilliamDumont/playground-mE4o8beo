@@ -1,6 +1,6 @@
 # Introduction
 
-JavaScript *used to* be considered one of those "lesser" languages, kind of like PHP, that were deemed unsuitable for "real" programming. After all, yes, JavaScript is dynamically typed (the type of a variable is known/can vary at runtime) and is indecently permissive/forgiving. Here are a few things that you can do without having runtime errors:
+JavaScript *used to* be considered one of tand is indecently permissive/forgiving. Here are a few things that you can do without having runtime errors:
 - add values of different types (such as numbers and strings),
 - use a variable that has not been assigned before,
 - reference non-existent properties of an object,
